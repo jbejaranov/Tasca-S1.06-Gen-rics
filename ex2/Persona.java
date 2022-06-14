@@ -1,9 +1,9 @@
 package ex2;
 
 public class Persona {
-	String nom;
-	String cognom;
-	int edat;
+	private String nom;
+	private String cognom;
+	private int edat;
 
 	public Persona() {
 
